@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pluginone">
+        <file>main.qml</file>
+        <file>mainheader.qml</file>
+    </qresource>
+</RCC>

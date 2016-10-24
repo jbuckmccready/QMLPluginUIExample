@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/plugintwo">
+        <file>main.qml</file>
+        <file>mainheader.qml</file>
+        <file>CustomControl.qml</file>
+    </qresource>
+</RCC>
